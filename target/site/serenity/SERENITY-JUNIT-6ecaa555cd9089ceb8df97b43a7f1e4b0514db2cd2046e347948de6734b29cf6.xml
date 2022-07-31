@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Phone" skipped="0" tests="2" time="25.17" timestamp="2022-07-24 03:04:47"><testcase name="Verify that Galaxy S6 display correct in phone category"/><testcase name="Verify that GalaxyS6 displays correct in detail page when user click on name"/></testsuite>
